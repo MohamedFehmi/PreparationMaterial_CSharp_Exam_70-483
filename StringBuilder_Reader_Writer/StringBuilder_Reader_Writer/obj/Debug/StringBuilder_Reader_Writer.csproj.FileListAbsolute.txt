@@ -1,0 +1,5 @@
+/Users/medfehmi/Projects/C#70-483/StringBuilder_Reader_Writer/StringBuilder_Reader_Writer/bin/Debug/StringBuilder_Reader_Writer.exe
+/Users/medfehmi/Projects/C#70-483/StringBuilder_Reader_Writer/StringBuilder_Reader_Writer/bin/Debug/StringBuilder_Reader_Writer.pdb
+/Users/medfehmi/Projects/C#70-483/StringBuilder_Reader_Writer/StringBuilder_Reader_Writer/obj/Debug/StringBuilder_Reader_Writer.csprojAssemblyReference.cache
+/Users/medfehmi/Projects/C#70-483/StringBuilder_Reader_Writer/StringBuilder_Reader_Writer/obj/Debug/StringBuilder_Reader_Writer.exe
+/Users/medfehmi/Projects/C#70-483/StringBuilder_Reader_Writer/StringBuilder_Reader_Writer/obj/Debug/StringBuilder_Reader_Writer.pdb

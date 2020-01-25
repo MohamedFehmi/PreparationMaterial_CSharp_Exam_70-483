@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsAndArrays", "CollectionsAndArrays\CollectionsAndArrays.csproj", "{571C03FA-A57B-4DD3-8F1B-588E8141735A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{571C03FA-A57B-4DD3-8F1B-588E8141735A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{571C03FA-A57B-4DD3-8F1B-588E8141735A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{571C03FA-A57B-4DD3-8F1B-588E8141735A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{571C03FA-A57B-4DD3-8F1B-588E8141735A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

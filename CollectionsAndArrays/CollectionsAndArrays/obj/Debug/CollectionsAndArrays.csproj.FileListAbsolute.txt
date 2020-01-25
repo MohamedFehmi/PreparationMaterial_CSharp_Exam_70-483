@@ -1,0 +1,5 @@
+/Users/medfehmi/Projects/CollectionsAndArrays/CollectionsAndArrays/bin/Debug/CollectionsAndArrays.exe
+/Users/medfehmi/Projects/CollectionsAndArrays/CollectionsAndArrays/bin/Debug/CollectionsAndArrays.pdb
+/Users/medfehmi/Projects/CollectionsAndArrays/CollectionsAndArrays/obj/Debug/CollectionsAndArrays.csprojAssemblyReference.cache
+/Users/medfehmi/Projects/CollectionsAndArrays/CollectionsAndArrays/obj/Debug/CollectionsAndArrays.exe
+/Users/medfehmi/Projects/CollectionsAndArrays/CollectionsAndArrays/obj/Debug/CollectionsAndArrays.pdb
