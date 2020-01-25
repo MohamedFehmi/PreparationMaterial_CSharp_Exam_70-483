@@ -1,0 +1,1 @@
+This is a text file. Use StreamReader to copy my content to another string object and display it to the console.Happy coding.

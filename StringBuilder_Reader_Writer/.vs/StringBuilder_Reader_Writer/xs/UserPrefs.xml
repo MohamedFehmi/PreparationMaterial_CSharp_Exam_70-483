@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{50D992EB-FCFD-4D48-B5CA-A08DEC3B942D}|Default">
-  <MonoDevelop.Ide.ItemProperties.StringBuilder__Reader__Writer FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StringBuilder_Reader_Writer/StringReadWrite.cs">
+  <MonoDevelop.Ide.ItemProperties.StringBuilder__Reader__Writer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringBuilder_Reader_Writer/FileReadWrite.cs">
     <Files>
-      <File FileName="StringBuilder_Reader_Writer/Program.cs" Line="9" Column="28" />
-      <File FileName="StringBuilder_Reader_Writer/StringReadWrite.cs" Line="24" Column="2" />
+      <File FileName="StringBuilder_Reader_Writer/Program.cs" Line="13" Column="53" />
+      <File FileName="StringBuilder_Reader_Writer/StringReadWrite.cs" Line="16" Column="1" />
+      <File FileName="StringBuilder_Reader_Writer/FileReadWrite.cs" Line="51" Column="1" />
+      <File FileName="StringBuilder_Reader_Writer/TestFile.txt" Line="1" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StringBuilder_Reader_Writer" expanded="True">
             <Node name="StringBuilder_Reader_Writer" expanded="True">
-              <Node name="StringReadWrite.cs" selected="True" />
+              <Node name="FileReadWrite.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -20,7 +22,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/medfehmi/Projects/C#70-483/StringBuilder_Reader_Writer/StringBuilder_Reader_Writer/FileReadWrite.cs" relfile="StringBuilder_Reader_Writer/FileReadWrite.cs" line="50" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

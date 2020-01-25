@@ -6,7 +6,11 @@ namespace StringBuilder_Reader_Writer
     {
         public static void Main(string[] args)
         {
-            StringReadWrite stringReadWrite = new StringReadWrite();
+            //Dealing with strings
+            //StringReadWrite stringReadWrite = new StringReadWrite();
+
+            //Dealing with files
+            FileReadWrite fileReadWrite = new FileReadWrite();    
         }
     }
 }

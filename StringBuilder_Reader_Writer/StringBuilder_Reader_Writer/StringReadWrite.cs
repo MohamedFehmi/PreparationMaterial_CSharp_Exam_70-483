@@ -27,8 +27,9 @@ namespace StringBuilder_Reader_Writer
             //Write input to the StringBuilder object
             writer.WriteLine($"Name: {name}");
 
-            //writer.Flush();
-            //writer.Close();
+            writer.Flush();
+            writer.WriteLine("After flushing closing");
+            writer.Close();
         }
         #endregion
 
